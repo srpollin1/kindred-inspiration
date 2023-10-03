@@ -1,8 +1,86 @@
-# React + Vite
+# Kindred-inspiration https://kindred-threejs.netlify.app/
+Este sitio está desarrollado con React Three Fiber, es solo para uso educativo *NO COMERCIAL*.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MODELO 3D: https://sketchfab.com/3d-models/kindred-league-of-legends-rigged-06a32da82b0441c39950296315307400
 
-Currently, two official plugins are available:
+![Imagen 1](https://github.com/srpollin1/kindred-inspiration/blob/main/kindred.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Requisitos: 📝
+
+Asegúrate de tener Node.js instalado en tu sistema antes de continuar.
+
+## Instalación: ⚙️
+
+1. Clona este repositorio en tu máquina local.
+2. Abre una terminal y navega hasta la carpeta del proyecto.
+3. Ejecuta el siguiente comando para instalar las dependencias:
+
+```bash
+npm install
+```
+
+### Dependencias: ⚙️
+
+```bash
+# Instala @babel/core
+npm install @babel/core
+
+# Instala @react-three/drei
+npm install @react-three/drei
+
+# Instala @react-three/fiber
+npm install @react-three/fiber
+
+# Instala @types/three
+npm install @types/three
+
+# Instala baffle
+npm install baffle
+
+# Instala gsap
+npm install gsap
+
+# Instala react
+npm install react
+
+# Instala react-dom
+npm install react-dom
+
+# Instala three
+npm install three
+
+```
+
+### DevDependencies: ⚙️
+
+```bash
+# Instala @types/react sin especificar la versión
+npm install --save-dev @types/react
+
+# Instala @types/react-dom sin especificar la versión
+npm install --save-dev @types/react-dom
+
+# Instala @vitejs/plugin-react sin especificar la versión
+npm install --save-dev @vitejs/plugin-react
+
+# Instala eslint sin especificar la versión
+npm install --save-dev eslint
+
+# Instala eslint-plugin-react sin especificar la versión
+npm install --save-dev eslint-plugin-react
+
+# Instala eslint-plugin-react-hooks sin especificar la versión
+npm install --save-dev eslint-plugin-react-hooks
+
+# Instala eslint-plugin-react-refresh sin especificar la versión
+npm install --save-dev eslint-plugin-react-refresh
+
+# Instala vite sin especificar la versión
+npm install --save-dev vite
+
+```
+
+### Para iniciar el servidor de desarrollo: 🚀
+```bash
+npm run dev
+```
