@@ -84,3 +84,14 @@ npm install --save-dev vite
 ```bash
 npm run dev
 ```
+
+### Enlaces: 🔗
+- NODE.JS  https://nodejs.org/es
+- VITE  https://vitejs.dev/
+- PMND.DOCS  https://docs.pmnd.rs/
+- PMND.DOCS  https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
+- PMND.DOCS  https://github.com/pmndrs/drei#readme
+- PMND.DOCS  https://github.com/pmndrs/gltfjsx
+- DEPLOY   https://www.netlify.com/
+- MODELO 3D   https://sketchfab.com/3d-models/kindred-league-of-legends-rigged-06a32da82b0441c39950296315307400
+
